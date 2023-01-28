@@ -3,7 +3,8 @@
 
 ## How it looks?
 User interface consists of a message box, a cube expansion, a color palette and a run button.
-![alt text](https://github.com/serkanyilmz/2x2x2-Rubiks-Cube-Solver/blob/main/images/view.png)
+
+![alt text](https://github.com/serkanyilmz/2x2x2-Rubiks-Cube-Solver/blob/main/images/how_to_use.gif)
 
 ## What that symbols mean?
 
